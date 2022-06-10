@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dtkdym
-- 👀 I’m interested in various themes such as AI, tensorflow, pytorch, and machine learning.
-- 🌱 I’m currently learning mathematical thinking on coursera.
-- 💞️ I’m looking to collaborate on simple machine learning.
-- 📫 How to reach me you can contact me by twitter or instagram with same username as my github username.
+- 👀 currently learning python for openCV
+- 🌱 have a nice day!
 
 <!---
 dtkdym/dtkdym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
